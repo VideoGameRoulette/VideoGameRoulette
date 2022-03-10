@@ -43,16 +43,24 @@
 <h4 align="center">🔥 Frameworks 🔥</h2>
 <div align="center">
 	<code><img title="React" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-	<code><img title="Redux" height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
+	<code><img title="React Router" height="25" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"></code>
 	<code><img title="Node" height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
 	<code><img title="Express" height="25" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></code>
 	<code><img title="TailwindCSS" height="25" src" height="25" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+	<code><img title="Bootstrap" height="25" src" height="25" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 </div>
 <h4 align="center">🔥 Tools 🔥</h2>
 <div align="center">
 	<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
 	<code><img title="Visual Studio Community 2010-2022" height="25" src" height="25" src="images/nova.png"></code>
 	<code><img title="Docker" height="25" src" height="25" src="images/docker.svg"></code>
+	<code><img title="Unity" height="25" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></code>
+</div>
+<h4 align="center">🔥 Database Experience 🔥</h2>
+<div align="center">
+	<code><img title="PostgreSQL" height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+	<code><img title="MongoDB" height="25" src" height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
+	<code><img title="SQLite" height="25" src" height="25" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 </div>
 <h4 align="center">🔥 Abilities 🔥</h2>
 <div align="center">
