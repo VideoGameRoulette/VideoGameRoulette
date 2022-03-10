@@ -33,13 +33,13 @@
 <div align="center">
 	<code><img title="Visual Basic" height="40" src="https://img.shields.io/badge/VB.NET-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=1B72BE"></code>
 	<code><img title="C#" height="40" src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=239120"></code>
-	<code><img title=".NET" height="40" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"></code>
 	<code><img title="XAML" height="40" src="https://img.shields.io/badge/XAML-20232A?style=for-the-badge&logo=xaml&logoColor=0C54C2"></code>
 </div>
 
 ## Desktop Frameworks
 <div align="center">
-	<code><img title="FNA" height="30" src="https://img.shields.io/badge/FNA-20232A?style=for-the-badge&logoColor=5C2D91"></code>
+	<code><img title=".NET" height="40" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"></code>
+	<code><img title="FNA" height="40" src="https://img.shields.io/badge/FNA-20232A?style=for-the-badge&logoColor=5C2D91"></code>
 </div>
 
 ## Web Languages
