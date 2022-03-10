@@ -19,7 +19,13 @@
 <hr>
 <br>
 
-<h4 align="center">🔥 Languages 🔥</h2>
+<h4 align="center">🔥 Desktop Application Languages 🔥</h2>
+<div align="center">
+	<code><img title="C#" height="25" src="images/html5.svg"></code>
+	<code><img title="VB" height="25" src="images/css.svg"></code>
+</div>
+
+<h4 align="center">🔥 Web Languages 🔥</h2>
 <div align="center">
 	<code><img title="HTML5" height="25" src="images/html5.svg"></code>
 	<code><img title="CSS" height="25" src="images/css.svg"></code>
