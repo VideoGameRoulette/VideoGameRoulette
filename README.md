@@ -6,8 +6,9 @@
 	<code><a href="https://www.twitch.tv/videogameroulette/" title="Twitch Channel"><img height="30" src="https://img.shields.io/badge/Twitch-20232A?style=for-the-badge&logo=twitch&logoColor=9146FF"></a></code>
 </h5>
 <br>
+
+<h1>📚 Latest Project</h1>
 <p align="center">
-	<h1>📚 Latest Project</h1>
 	<a href="https://staging.northerarena.io" title="Go to project">Northern Arena</a> an ESports Web Platform with Express, React, TypeScript, and Go
 	<br><br>
 	<code><a href="mailto: videogameroulette@yahoo.ca"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
