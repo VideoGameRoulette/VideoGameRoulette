@@ -87,7 +87,7 @@
 	<code><img title="GitHub" height="25" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 	<code><img title="npm" height="25" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></code>
 	<code><img title="yarn" height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></code>
-	<code><img title="UI/UX Design Adobe XD" height="25" src="https://img.shields.io/badge/Adobe_XD-2C8EBB?style=for-the-badge&logo=adobexd&logoColor=white"></code>
+	<code><img title="UI/UX Design Adobe XD" height="25" src="https://img.shields.io/badge/Adobe_XD-20232A?style=for-the-badge&logo=adobexd&logoColor=FF61F6"></code>
 </div>
 
 <hr>
