@@ -53,6 +53,11 @@
 	<code><img title="passport" height="25" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
 </div>
 
+## Web Utilities
+<div align="center">
+	<code><img title="Nodemon" height="25" src="https://img.shields.io/badge/Nodemon-20232A?style=for-the-badge&logo=nodemon&logoColor=76D04B"></code>
+</div>
+
 ## IDEs and Tools
 <div align="center">
 	<code><img title="VSCode" height="25" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code>
