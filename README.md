@@ -20,9 +20,16 @@
 	<code><img title=".Net" height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
 </div>
 
-<h4 align="center">🔥 Cross Platform Game Developer 🔥</h2>
+<h4 align="center">🔥 Operating Systems 🔥</h2>
 <div align="center">
-	<code><img title="Windows" height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+	<code><img title="Windows 10" height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+	<code><img title="MacOS - Catalina" height="25" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"></code>
+	<code><img title="Linux - Ubuntu" height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+</div>
+
+<h4 align="center">🔥 Desktop Frameworks 🔥</h2>
+<div align="center">
+	<code><img title="FNA" height="25" src="https://img.shields.io/badge/FNA-F59812?style=for-the-badge&logoColor=white"></code>
 	<code><img title="MacOS" height="25" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"></code>
 	<code><img title="Linux" height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 </div>
@@ -31,7 +38,7 @@
 <div align="center">
 	<code><img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
 	<code><img title="CSS" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
-	<code><img title="Javascript" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
+	<code><img title="Javascript" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"></code>
 	<code><img title="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
 	<code><img title="JSON" height="25" src="https://img.shields.io/badge/JSON-6DB33F?style=for-the-badge"></code>
 </div>
