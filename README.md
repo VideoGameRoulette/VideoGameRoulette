@@ -64,9 +64,9 @@
 </div>
 <h4 align="center">🔥 Abilities 🔥</h2>
 <div align="center">
-	<code><img title="Git" height="25" src="images/git-original.svg"></code>
-	<code><img title="GitHub" height="25" src="images/github.svg"></code>
-	<code><img title="npm" height="25" src="images/npm.svg"></code>
+	<code><img title="GitHub" height="25" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
+	<code><img title="npm" height="25" src="https://img.shields.io/badge/npm-07405E?style=for-the-badge&logo=npm&logoColor=white"></code>
+	<code><img title="yarn" height="25" src="https://img.shields.io/badge/Yarn-07405E?style=for-the-badge&logo=yarn&logoColor=white"></code>
 </div>
 
 <br>
