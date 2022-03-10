@@ -1,23 +1,19 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dekefective"> -->
 
 <h5 align="center">
-	<code><a href="https://codepen.io/Dekefective" title="Codepen Profile"><img width="22" src="images/codepen.svg"> Codepen</a></code>
-	<code><a href="https://www.instagram.com/dekefective/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-	<code><a href="https://www.linkedin.com/in/ctonucci/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-	<code><a href="https://www.twitch.com/dekefective/" title="Instagram Profile"><img width="22" src="images/twitch.svg"> Twitch</a></code>
+	<code><a href="https://codepen.io/VideoGameRoulette" title="Codepen Profile"><img width="22" src="images/codepen.svg"> Codepen</a></code>
 	<code><a href="https://www.twitter.com/dekefective/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-	<code><a href="https://www.dekefective.com" title="Portfolio Website"><img width="22" src="images/website.svg"> Website</a></code>
 </h5>
 <br>
 <p align="center">
-	Hi, Deke a Web Designer & Developer from Philadelphia
+	Hi, Christopher a Web Designer & Game Developer from Toronto
 	<br>
 	<br>
 	💻 I love writing code and learn anythings about it
 	<br>
-	📚 I’m currently building an <a href="https://github.com/dekefective/touka-ts" title="Go to project">E-Commmerce Website</a> with Express, React, TaliwindCSS, Stripe, and TypeScript
+	📚 I’m currently working on <a href="https://staging.northerarena.io" title="Go to project">ESports Web Platform</a> with Express, React, and TypeScript
 	<br>
-	📫 Contact me: <a href="mailto: Dekefective@gmail.com">Dekefective@gmail.com</a>
+	📫 Contact me: <a href="mailto: seteemail@domain.com">seteemail@domain.com</a>
 </p>
 
 <hr>
@@ -42,7 +38,7 @@
 <h4 align="center">🔥 Tools 🔥</h2>
 <div align="center">
 	<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-	<code><img title="Nova Code Editor" height="25" src" height="25" src="images/nova.png"></code>
+	<code><img title="Visual Studio Community 2010-2022" height="25" src" height="25" src="images/nova.png"></code>
 	<code><img title="Docker" height="25" src" height="25" src="images/docker.svg"></code>
 </div>
 <h4 align="center">🔥 Abilities 🔥</h2>
