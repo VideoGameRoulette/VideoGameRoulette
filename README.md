@@ -12,8 +12,8 @@
 	<code><a href="mailto: videogameroulette@yahoo.ca"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
 </p>
 
-<hr>
 <br>
+<hr>
 
 ## Recent Games Worked On
 <div align="center">
