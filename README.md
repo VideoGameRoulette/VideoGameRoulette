@@ -35,7 +35,7 @@
 	<code><img title="Visual Basic" height="25" src="https://img.shields.io/badge/VB.NET-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=1B72BE"></code>
 	<code><img title="C#" height="25" src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=239120"></code>
 	<code><img title=".NET" height="25" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"></code>
-	<code><img title="XAML" height="25" src="https://img.shields.io/badge/XAML-20232A?style=for-the-badge&logo=xmal&logoColor=0C54C2"></code>
+	<code><img title="XAML" height="25" src="https://img.shields.io/badge/XAML-20232A?style=for-the-badge&logo=xaml&logoColor=0C54C2"></code>
 </div>
 
 ## Desktop Frameworks
