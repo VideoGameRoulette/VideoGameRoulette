@@ -78,7 +78,7 @@
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <div align="center">
 	<a href="https://github.com/VideoGameRoulette/VideoGameRoulette">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=VideoGameRoulette&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="VideoGameRoulette's GitHub Stats" />
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=VideoGameRoulette&show_icons=true&line_height=40&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="VideoGameRoulette's GitHub Stats" />
 	</a> 
 	<a href="https://github.com/VideoGameRoulette/VideoGameRoulette">
 		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VideoGameRoulette&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
