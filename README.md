@@ -11,14 +11,15 @@
 	📫 Contact me: <a href="mailto: seteemail@domain.com">seteemail@domain.com</a>
 </p>
 
+<hr>
+<br>
+
 ## Games Worked On
 <div align="center">
 	<code><a href="https://store.steampowered.com/app/332200/Axiom_Verge/"><img title="Axiom Verge" height="100" src="https://store-images.s-microsoft.com/image/apps.52539.63283233232126176.842a7578-9d6c-4fa4-81fc-4d1b1bc868ae.cfe3be86-d8ed-449e-badd-a40fd4c51ec1"></a></code>
 	<code><a href="https://www.epicgames.com/store/en-US/p/axiom-verge-2"><img title="Axiom Verge 2" height="100" src="https://s3.gaming-cdn.com/images/products/8222/271x377/axiom-verge-2-pc-game-epic-games-cover.jpg"></a></code>
 	<code><a href="https://store.steampowered.com/app/1035560/Struggling/"><img title="Struggling" height="100" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2frt.png"></a></code>
 </div>
-<hr>
-<br>
 
 ## Operating Systems
 <div align="center">
