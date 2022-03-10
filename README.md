@@ -10,7 +10,7 @@
 	📚 Latest Project <a href="https://staging.northerarena.io" title="Go to project">Northern Arena</a> an ESports Web Platform with Express, React, and TypeScript
 	<br>
 	<br>
-	<code><a href="mailto: seteemail@domain.com"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
+	<code><a href="mailto: videogameroulette@yahoo.ca"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
 </p>
 
 <hr>
