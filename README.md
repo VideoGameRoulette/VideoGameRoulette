@@ -50,6 +50,7 @@
 	<code><img title="Javascript" height="25" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 	<code><img title="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"></code>
 	<code><img title="JSON" height="25" src="https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=json&logoColor=white"></code>
+	<code><img title="Markdown" height="25" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"></code>
 </div>
 
 ## Web Frameworks
