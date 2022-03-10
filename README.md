@@ -7,7 +7,7 @@
 </h5>
 <br>
 
-<h1>📚 Latest Project</h1>
+## 📚 Latest Project
 <p align="center">
 	<a href="https://staging.northerarena.io" title="Go to project">Northern Arena</a> an ESports Web Platform with Express, React, TypeScript, and Go
 	<br><br>
