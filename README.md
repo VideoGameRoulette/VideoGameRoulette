@@ -81,24 +81,22 @@
 
 ## Database Experience
 <div align="center">
-	<code><img title="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192"></code>
-	<code><img title="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
-	<code><img title="SQLite" height="30" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E"></code>
+	<code><img title="PostgreSQL" height="40" src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192"></code>
+	<code><img title="MongoDB" height="40" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
+	<code><img title="SQLite" height="40" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E"></code>
 </div>
 
 ## Other Experience
 <div align="center">
-	<code><img title="Git" height="30" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=F05032"></code>
-	<code><img title="GitHub" height="30" src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white"></code>
-	<code><img title="npm" height="30" src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837"></code>
-	<code><img title="yarn" height="30" src="https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=2C8EBB"></code>
-</div>
-<br>
-<div align="center">
-	<code><img title="UI/UX Design Adobe XD" height="30" src="https://img.shields.io/badge/Adobe_XD-20232A?style=for-the-badge&logo=adobexd&logoColor=FF61F6"></code>
-	<code><img title="Amazon AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"></code>
-	<code><img title="Amazon S3" height="30" src="https://img.shields.io/badge/Amazon_S3-20232A?style=for-the-badge&logo=amazons3&logoColor=569A31"></code>
-	<code><img title="NGINX" height="30" src="https://img.shields.io/badge/NGINX-20232A?style=for-the-badge&logo=nginx&logoColor=009639"></code>
+	<code><img title="Git" height="40" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=F05032"></code>
+	<code><img title="GitHub" height="40" src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white"></code>
+	<code><img title="npm" height="40" src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837"></code>
+	<code><img title="yarn" height="40" src="https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=2C8EBB"></code>
+	<br>
+	<code><img title="Adobe XD" height="40" src="https://img.shields.io/badge/Adobe_XD-20232A?style=for-the-badge&logo=adobexd&logoColor=FF61F6"></code>
+	<code><img title="Amazon AWS" height="40" src="https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"></code>
+	<code><img title="Amazon S3" height="40" src="https://img.shields.io/badge/Amazon_S3-20232A?style=for-the-badge&logo=amazons3&logoColor=569A31"></code>
+	<code><img title="NGINX" height="40" src="https://img.shields.io/badge/NGINX-20232A?style=for-the-badge&logo=nginx&logoColor=009639"></code>
 </div>
 
 <hr>
