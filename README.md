@@ -6,12 +6,7 @@
 </h5>
 <br>
 <p align="center">
-	Hi, Christopher a Web Designer & Game Developer from Toronto
-	<br>
-	<br>
-	💻 I love writing code and learn anythings about it
-	<br>
-	📚 I’m currently working on <a href="https://staging.northerarena.io" title="Go to project">ESports Web Platform</a> with Express, React, and TypeScript
+	📚 Latest Project <a href="https://staging.northerarena.io" title="Go to project">ESports Web Platform</a> with Express, React, and TypeScript
 	<br>
 	📫 Contact me: <a href="mailto: seteemail@domain.com">seteemail@domain.com</a>
 </p>
@@ -35,11 +30,11 @@
 </div>
 <h4 align="center">🔥 Frameworks 🔥</h2>
 <div align="center">
-	<code><img title="React" height="25" src="images/react-original.svg"></code>
-	<code><img title="Redux" height="25" src="images/redux.svg"></code>
-	<code><img title="Node" height="25" src="images/node.svg"></code>
-	<code><img title="Express" height="25" src="images/express.svg"></code>
-	<code><img title="TailwindCSS" height="25" src" height="25" src="images/tailwindcss.svg"></code>
+	<code><img title="React" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+	<code><img title="Redux" height="25" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"></code>
+	<code><img title="Node" height="25" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></code>
+	<code><img title="Express" height="25" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></code>
+	<code><img title="TailwindCSS" height="25" src" height="25" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 </div>
 <h4 align="center">🔥 Tools 🔥</h2>
 <div align="center">
