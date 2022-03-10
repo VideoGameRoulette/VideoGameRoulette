@@ -2,7 +2,7 @@
 
 <h5 align="center">
 	<code><a href="https://codepen.io/VideoGameRoulette" title="Codepen Profile"><img width="22" src="images/codepen.svg"> Codepen</a></code>
-	<code><a href="https://www.twitter.com/dekefective/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+	<code><a href="https://www.twitter.com/VGRoulette/" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
 </h5>
 <br>
 <p align="center">
