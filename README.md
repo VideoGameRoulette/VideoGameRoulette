@@ -50,7 +50,7 @@
 	<code><img title="TailwindCSS" height="25" src" height="25" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 	<code><img title="Bootstrap" height="25" src" height="25" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 </div>
-## IDE's and Tools
+## IDEs and Tools
 <div align="center">
 	<code><img title="VSCode" height="25" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code>
 	<code><img title="Visual Studio Community 2010-2022" height="25" src" height="25" src="https://img.shields.io/badge/Visual_Studio_2010_to_2022-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code>
