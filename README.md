@@ -6,7 +6,7 @@
 </h5>
 <br>
 <p align="center">
-	📚 Latest Project <a href="https://staging.northerarena.io" title="Go to project">ESports Web Platform</a> with Express, React, and TypeScript
+	📚 Latest Project <a href="https://staging.northerarena.io" title="Go to project">Northern Arena</a> an ESports Web Platform with Express, React, and TypeScript
 	<br>
 	📫 Contact me: <a href="mailto: seteemail@domain.com">seteemail@domain.com</a>
 </p>
