@@ -75,6 +75,9 @@
 	<code><img title="yarn" height="25" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></code>
 </div>
 
+<hr>
+<br>
+
 ## GitHub Stats
 <div align="center">
 	<a href="https://github.com/VideoGameRoulette/VideoGameRoulette">
