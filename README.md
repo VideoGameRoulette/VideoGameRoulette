@@ -21,15 +21,15 @@
 
 <h4 align="center">🔥 Desktop Application Languages 🔥</h2>
 <div align="center">
-	<code><img title="C#" height="25" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+	<code><img title="C#" height="25" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 	<code><img title=".Net" height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
 </div>
 
 <h4 align="center">🔥 Web Languages 🔥</h2>
 <div align="center">
-	<code><img title="HTML5" height="25" src="images/html5.svg"></code>
-	<code><img title="CSS" height="25" src="images/css.svg"></code>
-	<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+	<code><img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
+	<code><img title="CSS" height="25" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
+	<code><img title="Javascript" height="25" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></code>
 	<code><img title="JSON" height="25" src="images/json.svg"></code>
 	<code><img title="Typescript" height="25" src="images/typescript.svg"></code>
 </div>
