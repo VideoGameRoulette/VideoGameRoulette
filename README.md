@@ -14,18 +14,18 @@
 <hr>
 <br>
 
-## Desktop Application Languages
-<div align="center">
-	<code><img title="Visual Basic" height="25" src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code>
-	<code><img title="C#" height="25" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-	<code><img title=".NET" height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
-</div>
-
 ## Operating Systems
 <div align="center">
 	<code><img title="Windows 10" height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
 	<code><img title="MacOS - Catalina" height="25" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"></code>
 	<code><img title="Linux - Ubuntu" height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+</div>
+
+## Desktop Application Languages
+<div align="center">
+	<code><img title="Visual Basic" height="25" src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code>
+	<code><img title="C#" height="25" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+	<code><img title=".NET" height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
 </div>
 
 ## Desktop Frameworks
