@@ -53,11 +53,12 @@
 
 ## Web Frameworks
 <div align="center">
-	<code><img title="React" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+	<code><img title="React.js" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 	<code><img title="React Router" height="25" src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245"></code>
-	<code><img title="Node" height="25" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D"></code>
-	<code><img title="Express" height="25" src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"></code>
-	<code><img title="TailwindCSS" height="25" src" height="25" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
+	<code><img title="Node.js" height="25" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D"></code>
+	<code><img title="Next.js" height="25" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=43853D"></code>
+	<code><img title="Express.js" height="25" src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"></code>
+	<code><img title="Tailwind" height="25" src" height="25" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
 	<code><img title="Bootstrap" height="25" src" height="25" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></code>
 </div>
 
