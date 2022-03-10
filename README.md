@@ -8,8 +8,7 @@
 <br>
 <p align="center">
 	📚 Latest Project <a href="https://staging.northerarena.io" title="Go to project">Northern Arena</a> an ESports Web Platform with Express, React, and TypeScript
-	<br>
-	<br>
+	<br><br>
 	<code><a href="mailto: videogameroulette@yahoo.ca"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
 </p>
 
@@ -48,6 +47,7 @@
 	<code><img title="HTML5" height="40" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"></code>
 	<code><img title="CSS" height="40" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"></code>
 	<code><img title="Javascript" height="40" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+	<br><br>
 	<code><img title="Typescript" height="40" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"></code>
 	<code><img title="JSON" height="40" src="https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=json&logoColor=white"></code>
 	<code><img title="Markdown" height="40" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"></code>
@@ -59,6 +59,7 @@
 	<code><img title="React Router" height="40" src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245"></code>
 	<code><img title="Node.js" height="40" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D"></code>
 	<code><img title="Next.js" height="40" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white"></code>
+	<br><br>
 	<code><img title="Express.js" height="40" src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"></code>
 	<code><img title="Tailwind" height="40" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
 	<code><img title="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></code>
