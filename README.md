@@ -90,6 +90,8 @@
 	<code><img title="npm" height="25" src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837"></code>
 	<code><img title="yarn" height="25" src="https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=2C8EBB"></code>
 	<code><img title="UI/UX Design Adobe XD" height="25" src="https://img.shields.io/badge/Adobe_XD-20232A?style=for-the-badge&logo=adobexd&logoColor=FF61F6"></code>
+	<code><img title="Amazon AWS" height="25" src="https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"></code>
+	<code><img title="Amazon S3" height="25" src="https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazons3&logoColor=FF9900"></code>
 </div>
 
 <hr>
