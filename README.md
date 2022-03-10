@@ -24,27 +24,27 @@
 	<code><a href="https://store.steampowered.com/app/1035560/Struggling/"><img title="Struggling" height="200" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2frt.png"></a></code>
 </div>
 
-## Operating Systems
+## 🖥️ Operating Systems
 <div align="center">
 	<code><img title="Windows 10" height="40" src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=0078D6"></code>
 	<code><img title="MacOS (Catalina)" height="40" src="https://img.shields.io/badge/MacOS-20232A?style=for-the-badge&logo=apple&logoColor=white"></code>
 	<code><img title="Linux (Ubuntu)" height="40" src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624"></code>
 </div>
 
-## Desktop Application Languages
+## 🧠 Desktop Application Languages
 <div align="center">
 	<code><img title="Visual Basic" height="40" src="https://img.shields.io/badge/VB.NET-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=1B72BE"></code>
 	<code><img title="C#" height="40" src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=239120"></code>
 	<code><img title="XAML" height="40" src="https://img.shields.io/badge/XAML-20232A?style=for-the-badge&logo=xaml&logoColor=0C54C2"></code>
 </div>
 
-## Desktop Frameworks
+## 🔧 Desktop Frameworks
 <div align="center">
 	<code><img title=".NET" height="40" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"></code>
 	<code><img title="FNA" height="40" src="https://img.shields.io/badge/FNA-20232A?style=for-the-badge&logoColor=5C2D91"></code>
 </div>
 
-## Web Languages
+## 🧠 Web Languages
 <div align="center">
 	<code><img title="HTML5" height="40" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"></code>
 	<code><img title="CSS" height="40" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"></code>
@@ -55,7 +55,7 @@
 	<code><img title="Markdown" height="40" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"></code>
 </div>
 
-## Web Frameworks
+## 🔧 Web Frameworks
 <div align="center">
 	<code><img title="React.js" height="40" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 	<code><img title="React Router" height="40" src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245"></code>
@@ -68,13 +68,13 @@
 	<code><img title="i18next" height="40" src="https://img.shields.io/badge/i18next-20232A?style=for-the-badge&logo=i18next&logoColor=26A69A"></code>
 </div>
 
-## Web Utilities and Middleware
+## 📑 Web Utilities and Middleware
 <div align="center">
 	<code><img title="Nodemon" height="40" src="https://img.shields.io/badge/Nodemon-20232A?style=for-the-badge&logo=nodemon&logoColor=76D04B"></code>
 	<code><img title="passport" height="40" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
 </div>
 
-## IDEs and Tools
+## 🧰 IDEs and Tools
 <div align="center">
 	<code><img title="VSCode" height="40" src="https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"></code>
 	<code><img title="Visual Studio Community" height="40" src="https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=5C2D91"></code>
@@ -84,14 +84,14 @@
 	<code><img title="Unity" height="40" src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"></code>
 </div>
 
-## Database Experience
+## 🗄️ Database Experience
 <div align="center">
 	<code><img title="PostgreSQL" height="40" src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192"></code>
 	<code><img title="MongoDB" height="40" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
 	<code><img title="SQLite" height="40" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E"></code>
 </div>
 
-## Other Experience
+## 🔗 Other Experience
 <div align="center">
 	<code><img title="Git" height="40" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=F05032"></code>
 	<code><img title="GitHub" height="40" src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white"></code>
