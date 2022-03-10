@@ -9,7 +9,7 @@
 <p align="center">
 	📚 Latest Project <a href="https://staging.northerarena.io" title="Go to project">Northern Arena</a> an ESports Web Platform with Express, React, and TypeScript
 	<br>
-	📫 Contact me: <a href="mailto: seteemail@domain.com">seteemail@domain.com</a>
+	<code><a href="mailto: seteemail@domain.com"><img height="25" src="https://img.shields.io/badge/Contact_Me-4285F4?style=for-the-badge&logo=google&logoColor=white"></a></code>
 </p>
 
 <hr>
