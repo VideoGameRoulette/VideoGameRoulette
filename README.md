@@ -27,7 +27,7 @@
 <div align="center">
 	<code><img title="Windows 10" height="25" src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=0078D6"></code>
 	<code><img title="MacOS - Catalina" height="25" src="https://img.shields.io/badge/MacOS-20232A?style=for-the-badge&logo=apple&logoColor=white"></code>
-	<code><img title="Linux - Ubuntu" height="25" src="https://img.shields.io/badge/Ubuntu-20232A?style=for-the-badge&logo=ubuntu&logoColor=E95420"></code>
+	<code><img title="Linux" height="25" src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624"></code>
 </div>
 
 ## Desktop Application Languages
