@@ -1,7 +1,7 @@
 <!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dekefective"> -->
 
 <h5 align="center">
-	<code><a href="https://codepen.io/VideoGameRoulette" title="Codepen Profile"><img height="25" src="https://img.shields.io/badge/Codepen-1DA1F2?style=for-the-badge&logo=codepen&logoColor=white"></a></code>
+	<code><a href="https://codepen.io/VideoGameRoulette" title="Codepen Profile"><img height="25" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a></code>
 	<code><a href="https://www.twitter.com/VGRoulette/" title="Twitter Profile"><img height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></code>
 </h5>
 <br>
