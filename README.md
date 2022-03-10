@@ -56,11 +56,11 @@
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <div align="center">
-	<a href="https://github.com/Dekefective/Dekefective">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dekefective&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Deke's GitHub Stats" />
+	<a href="https://github.com/VideoGameRoulette/VideoGameRoulette">
+		<img align="center" src="https://github-readme-stats.vercel.app/api?username=VideoGameRoulette&show_icons=true&line_height=27&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="VideoGameRoulette's GitHub Stats" />
 	</a> 
-	<a href="https://github.com/Dekefective/Dekefective">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dekefective&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+	<a href="https://github.com/VideoGameRoulette/VideoGameRoulette">
+		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VideoGameRoulette&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 	</a>
 </div>
 <hr>
