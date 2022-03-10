@@ -73,17 +73,17 @@
 ## IDEs and Tools
 <div align="center">
 	<code><img title="VSCode" height="30" src="https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"></code>
-	<code><img title="Visual Studio Community 2010-2022" height="30" src" height="25" src="https://img.shields.io/badge/Visual_Studio_2010_to_2022-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=5C2D91"></code>
-	<code><img title="Docker" height="25" src" height="30" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"></code>
-	<code><img title="Caddy" height="25" src" height="30" src="https://img.shields.io/badge/Caddyfile-20232A?style=for-the-badge&logo=protonmail&logoColor=56B366"></code>
+	<code><img title="Visual Studio Community 2010-2022" height="30" src="https://img.shields.io/badge/Visual_Studio_2010_to_2022-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=5C2D91"></code>
+	<code><img title="Docker" height="30" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"></code>
+	<code><img title="Caddy" height="30" src="https://img.shields.io/badge/Caddyfile-20232A?style=for-the-badge&logo=protonmail&logoColor=56B366"></code>
 	<code><img title="Unity" height="30" src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"></code>
 </div>
 
 ## Database Experience
 <div align="center">
 	<code><img title="PostgreSQL" height="30" src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192"></code>
-	<code><img title="MongoDB" height="30" src" height="25" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
-	<code><img title="SQLite" height="25" src" height="30" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E"></code>
+	<code><img title="MongoDB" height="30" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
+	<code><img title="SQLite" height="30" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E"></code>
 </div>
 
 ## Other Experience
