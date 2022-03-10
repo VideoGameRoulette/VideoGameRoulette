@@ -3,6 +3,7 @@
 <h5 align="center">
 	<code><a href="https://codepen.io/VideoGameRoulette" title="Codepen Profile"><img height="25" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a></code>
 	<code><a href="https://www.twitter.com/VGRoulette/" title="Twitter Profile"><img height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a></code>
+	<code><a href="https://www.twitch.tv/videogameroulette/" title="Twitch Channel"><img height="25" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a></code>
 </h5>
 <br>
 <p align="center">
