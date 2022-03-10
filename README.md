@@ -63,6 +63,7 @@
 	<code><img title="Express.js" height="40" src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"></code>
 	<code><img title="Tailwind" height="40" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
 	<code><img title="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></code>
+	<code><img title="i18next" height="40" src="https://img.shields.io/badge/i18next-20232A?style=for-the-badge&logo=i18next&logoColor=26A69A"></code>
 </div>
 
 ## Web Utilities and Middleware
