@@ -46,7 +46,7 @@
 <div align="center">
 	<code><img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"></code>
 	<code><img title="CSS" height="25" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"></code>
-	<code><img title="Javascript" height="25" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=323330"></code>
+	<code><img title="Javascript" height="25" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 	<code><img title="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"></code>
 	<code><img title="JSON" height="25" src="https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=json&logoColor=white"></code>
 </div>
