@@ -30,8 +30,6 @@
 <h4 align="center">🔥 Desktop Frameworks 🔥</h2>
 <div align="center">
 	<code><img title="FNA" height="25" src="https://img.shields.io/badge/FNA-5C2D91?style=for-the-badge&logoColor=white"></code>
-	<code><img title="MacOS" height="25" src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white"></code>
-	<code><img title="Linux" height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
 </div>
 
 <h4 align="center">🔥 Web Languages 🔥</h2>
