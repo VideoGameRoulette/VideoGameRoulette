@@ -41,6 +41,7 @@
 	<code><img title="Typescript" height="25" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></code>
 	<code><img title="JSON" height="25" src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"></code>
 </div>
+
 ## Web Frameworks
 <div align="center">
 	<code><img title="React" height="25" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
@@ -50,6 +51,7 @@
 	<code><img title="TailwindCSS" height="25" src" height="25" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 	<code><img title="Bootstrap" height="25" src" height="25" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 </div>
+
 ## IDEs and Tools
 <div align="center">
 	<code><img title="VSCode" height="25" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></code>
@@ -58,12 +60,14 @@
 	<code><img title="Caddy" height="25" src" height="25" src="https://img.shields.io/badge/Caddyfile-56B366?style=for-the-badge&logo=protonmail&logoColor=white"></code>
 	<code><img title="Unity" height="25" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"></code>
 </div>
+
 ## Database Experience
 <div align="center">
 	<code><img title="PostgreSQL" height="25" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
 	<code><img title="MongoDB" height="25" src" height="25" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 	<code><img title="SQLite" height="25" src" height="25" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></code>
 </div>
+
 ## Other Experience
 <div align="center">
 	<code><img title="GitHub" height="25" src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=sqlite&logoColor=white"></code>
