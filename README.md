@@ -94,7 +94,7 @@
 	<code><img title="UI/UX Design Adobe XD" height="25" src="https://img.shields.io/badge/Adobe_XD-20232A?style=for-the-badge&logo=adobexd&logoColor=FF61F6"></code>
 	<code><img title="Amazon AWS" height="25" src="https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"></code>
 	<code><img title="Amazon S3" height="25" src="https://img.shields.io/badge/Amazon_S3-20232A?style=for-the-badge&logo=amazons3&logoColor=569A31"></code>
-	<code><img title="NGINX" height="25" src="https://img.shields.io/badge/Amazon_S3-20232A?style=for-the-badge&logo=nginx&logoColor=009639"></code>
+	<code><img title="NGINX" height="25" src="https://img.shields.io/badge/NGINX-20232A?style=for-the-badge&logo=nginx&logoColor=009639"></code>
 </div>
 
 <hr>
