@@ -32,10 +32,10 @@
 
 ## Desktop Application Languages
 <div align="center">
-	<code><img title="Visual Basic" height="30" src="https://img.shields.io/badge/VB.NET-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=1B72BE"></code>
-	<code><img title="C#" height="30" src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=239120"></code>
-	<code><img title=".NET" height="30" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"></code>
-	<code><img title="XAML" height="30" src="https://img.shields.io/badge/XAML-20232A?style=for-the-badge&logo=xaml&logoColor=0C54C2"></code>
+	<code><img title="Visual Basic" height="40" src="https://img.shields.io/badge/VB.NET-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=1B72BE"></code>
+	<code><img title="C#" height="40" src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=239120"></code>
+	<code><img title=".NET" height="40" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"></code>
+	<code><img title="XAML" height="40" src="https://img.shields.io/badge/XAML-20232A?style=for-the-badge&logo=xaml&logoColor=0C54C2"></code>
 </div>
 
 ## Desktop Frameworks
@@ -45,38 +45,38 @@
 
 ## Web Languages
 <div align="center">
-	<code><img title="HTML5" height="30" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"></code>
-	<code><img title="CSS" height="30" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"></code>
-	<code><img title="Javascript" height="30" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-	<code><img title="Typescript" height="30" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"></code>
-	<code><img title="JSON" height="30" src="https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=json&logoColor=white"></code>
-	<code><img title="Markdown" height="30" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"></code>
+	<code><img title="HTML5" height="40" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"></code>
+	<code><img title="CSS" height="40" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"></code>
+	<code><img title="Javascript" height="40" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+	<code><img title="Typescript" height="40" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"></code>
+	<code><img title="JSON" height="40" src="https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=json&logoColor=white"></code>
+	<code><img title="Markdown" height="40" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"></code>
 </div>
 
 ## Web Frameworks
 <div align="center">
-	<code><img title="React.js" height="30" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-	<code><img title="React Router" height="30" src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245"></code>
-	<code><img title="Node.js" height="30" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D"></code>
-	<code><img title="Next.js" height="30" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white"></code>
-	<code><img title="Express.js" height="30" src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"></code>
-	<code><img title="Tailwind" height="30" src" height="25" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
-	<code><img title="Bootstrap" height="30" src" height="25" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></code>
+	<code><img title="React.js" height="40" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+	<code><img title="React Router" height="40" src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245"></code>
+	<code><img title="Node.js" height="40" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D"></code>
+	<code><img title="Next.js" height="40" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white"></code>
+	<code><img title="Express.js" height="40" src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"></code>
+	<code><img title="Tailwind" height="40" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
+	<code><img title="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></code>
 </div>
 
 ## Web Utilities and Middleware
 <div align="center">
-	<code><img title="Nodemon" height="30" src="https://img.shields.io/badge/Nodemon-20232A?style=for-the-badge&logo=nodemon&logoColor=76D04B"></code>
-	<code><img title="passport" height="30" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
+	<code><img title="Nodemon" height="40" src="https://img.shields.io/badge/Nodemon-20232A?style=for-the-badge&logo=nodemon&logoColor=76D04B"></code>
+	<code><img title="passport" height="40" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
 </div>
 
 ## IDEs and Tools
 <div align="center">
-	<code><img title="VSCode" height="30" src="https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"></code>
-	<code><img title="Visual Studio Community 2010-2022" height="30" src="https://img.shields.io/badge/Visual_Studio_2010_to_2022-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=5C2D91"></code>
-	<code><img title="Docker" height="30" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"></code>
-	<code><img title="Caddy" height="30" src="https://img.shields.io/badge/Caddyfile-20232A?style=for-the-badge&logo=protonmail&logoColor=56B366"></code>
-	<code><img title="Unity" height="30" src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"></code>
+	<code><img title="VSCode" height="40" src="https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"></code>
+	<code><img title="Visual Studio Community" height="40" src="https://img.shields.io/badge/Visual_Studio_2010_to_2022-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=5C2D91"></code>
+	<code><img title="Docker" height="40" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"></code>
+	<code><img title="Caddy" height="40" src="https://img.shields.io/badge/Caddyfile-20232A?style=for-the-badge&logo=protonmail&logoColor=56B366"></code>
+	<code><img title="Unity" height="40" src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"></code>
 </div>
 
 ## Database Experience
