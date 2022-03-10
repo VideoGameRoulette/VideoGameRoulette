@@ -16,8 +16,9 @@
 
 <h4 align="center">🔥 Desktop Application Languages 🔥</h2>
 <div align="center">
+	<code><img title="Visual Basic" height="25" src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
 	<code><img title="C#" height="25" src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
-	<code><img title=".Net" height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
+	<code><img title=".NET" height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
 </div>
 
 <h4 align="center">🔥 Operating Systems 🔥</h2>
