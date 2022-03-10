@@ -92,7 +92,7 @@
 	<code><img title="GitHub" height="40" src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white"></code>
 	<code><img title="npm" height="40" src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837"></code>
 	<code><img title="yarn" height="40" src="https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=2C8EBB"></code>
-	<br>
+	<br><br>
 	<code><img title="Adobe XD" height="40" src="https://img.shields.io/badge/Adobe_XD-20232A?style=for-the-badge&logo=adobexd&logoColor=FF61F6"></code>
 	<code><img title="Amazon AWS" height="40" src="https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"></code>
 	<code><img title="Amazon S3" height="40" src="https://img.shields.io/badge/Amazon_S3-20232A?style=for-the-badge&logo=amazons3&logoColor=569A31"></code>
