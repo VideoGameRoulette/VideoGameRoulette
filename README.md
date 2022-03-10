@@ -20,6 +20,13 @@
 	<code><img title=".Net" height="25" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></code>
 </div>
 
+<h4 align="center">🔥 Cross Platform Game Developer 🔥</h2>
+<div align="center">
+	<code><img title="Windows" height="25" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></code>
+	<code><img title="Mac" height="25" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"></code>
+	<code><img title="Linux" height="25" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></code>
+</div>
+
 <h4 align="center">🔥 Web Languages 🔥</h2>
 <div align="center">
 	<code><img title="HTML5" height="25" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></code>
