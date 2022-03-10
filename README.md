@@ -50,12 +50,12 @@
 	<code><img title="Express" height="25" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"></code>
 	<code><img title="TailwindCSS" height="25" src" height="25" src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 	<code><img title="Bootstrap" height="25" src" height="25" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
-	<code><img title="passport" height="25" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
 </div>
 
-## Web Utilities
+## Web Utilities and Middleware
 <div align="center">
 	<code><img title="Nodemon" height="25" src="https://img.shields.io/badge/Nodemon-20232A?style=for-the-badge&logo=nodemon&logoColor=76D04B"></code>
+	<code><img title="passport" height="25" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
 </div>
 
 ## IDEs and Tools
