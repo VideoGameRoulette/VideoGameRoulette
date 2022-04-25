@@ -7,7 +7,7 @@
 </h5>
 <br>
 
-## 📚 Latest Project
+## 📚 Latest Projects
 <p align="center">
 	<a href="https://noresetspeed.run/" title="Go to project">NoReset</a> a Charity based speedrunning marathon oragination Web Platform with Express, React, and Next.js
 	<br><br>
