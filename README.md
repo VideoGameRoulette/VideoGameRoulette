@@ -9,9 +9,7 @@
 
 ## 📚 Latest Projects
 <p align="center">
-	<a href="https://noresetspeed.run/" title="Go to project">NoReset</a> a Charity based speedrunning marathon oragination Web Platform with Express, React, and Next.js
-	<br><br>
-	<a href="https://staging.northerarena.io" title="Go to project">Northern Arena</a> an ESports Web Platform with Express, React, TypeScript, and Go
+	<a href="https://noreset.tv/" title="Go to project">NoReset</a> a Charity based speedrunning marathon oragination Web Platform with Express, React, and Next.js
 	<br><br>
 	<code><a href="mailto: videogameroulette@yahoo.ca"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
 </p>
