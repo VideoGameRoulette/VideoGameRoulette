@@ -82,6 +82,7 @@
 	<code><img title="Caddy" height="40" src="https://img.shields.io/badge/Caddyfile-20232A?style=for-the-badge&logo=protonmail&logoColor=56B366"></code>
 	<br><br>
 	<code><img title="Unity" height="40" src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"></code>
+	<code><img title="Python" height="40" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=F7DF1E"></code>
 </div>
 
 ## 🗄️ Database Experience
