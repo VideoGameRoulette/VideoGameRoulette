@@ -58,6 +58,8 @@
 ## 🔧 Web Frameworks
 <div align="center">
 	<code><img title="React.js" height="40" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
+	<code><img title="Django" height="40" src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=092E20"></code>
+	<code><img title="Django Rest Framework" height="40" src="https://img.shields.io/badge/DRF-20232A?style=for-the-badge&logo=django&logoColor=092E20"></code>
 	<code><img title="React Router" height="40" src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245"></code>
 	<code><img title="Node.js" height="40" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D"></code>
 	<code><img title="Next.js" height="40" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white"></code>
@@ -72,6 +74,13 @@
 <div align="center">
 	<code><img title="Nodemon" height="40" src="https://img.shields.io/badge/Nodemon-20232A?style=for-the-badge&logo=nodemon&logoColor=76D04B"></code>
 	<code><img title="passport" height="40" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
+</div>
+
+## 🖌️ UI Libraries
+<div align="center">
+	<code><img title="Material-UI" height="40" src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui&logoColor=007FFF"></code>
+	<code><img title="Tailwind CSS" height="40" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
+	<code><img title="Tailwind UI" height="40" src="https://img.shields.io/badge/Tailwind_UI-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
 </div>
 
 ## 🧰 IDEs and Tools
