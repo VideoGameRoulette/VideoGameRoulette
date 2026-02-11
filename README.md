@@ -11,7 +11,7 @@
 <p align="center">
 	<a href="https://noreset.tv/" title="Go to project">NoReset</a> a Charity based speedrunning marathon oragination Web Platform with Express, React, and Next.js
 	<br><br>
-	<code><a href="mailto: contact@inhousecloudsolutions"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
+	<code><a href="mailto: contact@inhousecloudsolutions.com"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
 </p>
 
 <br>
