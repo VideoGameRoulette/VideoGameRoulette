@@ -1,130 +1,215 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=dekefective"> -->
+<div align="center">
 
-<h5 align="center">
-	<code><a href="https://codepen.io/VideoGameRoulette" title="Codepen Profile"><img height="30" src="https://img.shields.io/badge/Codepen-20232A?style=for-the-badge&logo=codepen&logoColor=white"></a></code>
-	<code><a href="https://www.twitter.com/VGRoulette/" title="Twitter Profile"><img height="30" src="https://img.shields.io/badge/Twitter-20232A?style=for-the-badge&logo=twitter&logoColor=1DA1F2"></a></code>
-	<code><a href="https://www.twitch.tv/videogameroulette/" title="Twitch Channel"><img height="30" src="https://img.shields.io/badge/Twitch-20232A?style=for-the-badge&logo=twitch&logoColor=9146FF"></a></code>
-</h5>
+<!-- Profile Card -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1f21,100:2bbc8a&height=170&section=header&text=VideoGameRoulette&fontSize=38&fontColor=ffffff&fontAlignY=34&animation=twinkling" alt="header" />
+
+### Full-Stack Web Developer
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1200&color=2BBC8A&center=true&vCenter=true&width=900&lines=Building+web+platforms+with+React+%26+Next.js;Shipping+full-stack+apps+with+Django+%26+TypeScript;Turning+ideas+into+production-ready+software)](https://git.io/typing-svg)
+
 <br>
 
-## 📚 Latest Projects
-<p align="center">
-	<a href="https://noreset.tv/" title="Go to project">NoReset</a> a Charity based speedrunning marathon oragination Web Platform with Express, React, and Next.js
-	<br><br>
-	<code><a href="mailto: contact@inhousecloudsolutions.com"><img height="40" src="https://img.shields.io/badge/Contact_Me-20232A?style=for-the-badge&logo=gmail&logoColor=4285F4"></a></code>
-</p>
+<!-- Social -->
+<a href="https://codepen.io/VideoGameRoulette" title="CodePen"><img height="32" src="https://img.shields.io/badge/CodePen-1d1f21?style=for-the-badge&logo=codepen&logoColor=2bbc8a"></a>
+<a href="https://www.twitter.com/VGRoulette/" title="Twitter"><img height="32" src="https://img.shields.io/badge/Twitter-1d1f21?style=for-the-badge&logo=x&logoColor=2bbc8a"></a>
+<a href="https://www.twitch.tv/videogameroulette/" title="Twitch"><img height="32" src="https://img.shields.io/badge/Twitch-1d1f21?style=for-the-badge&logo=twitch&logoColor=2bbc8a"></a>
+<a href="mailto:contact@inhousecloudsolutions.com" title="Email"><img height="32" src="https://img.shields.io/badge/Contact_Me-1d1f21?style=for-the-badge&logo=gmail&logoColor=2bbc8a"></a>
+
+</div>
+
+---
+
+## Focus Areas
+
+```text
+  Frontend     React · Next.js · TypeScript · Tailwind · MUI
+  Backend      Django · DRF · GraphQL · PostgreSQL · Redis
+  Data         SQLite (dev & non-critical assets) · PostgreSQL (production)
+  Tooling      Docker · Git · Playwright · AI-assisted development
+```
+
+## Currently Learning
+
+| Area | Focus |
+| :--- | :--- |
+| **Quality** | End-to-end testing with Playwright |
+| **Workflow** | AI-assisted development with Cursor & modern tooling |
+
+---
+
+## Featured Projects
+
+<table>
+  <tr>
+    <td width="170" align="center" valign="middle">
+      <a href="https://www.inhousecloudsolutions.com/"><img src="./images/inhouse-cloud-solutions.png" alt="In House Cloud Solutions" style="max-height:48px;max-width:48px;object-fit:contain;display:block;margin:0 auto"></a>
+    </td>
+    <td valign="middle">
+      <a href="https://www.inhousecloudsolutions.com/"><b>In House Cloud Solutions</b></a><br>
+      <sub>In-house feel, cloud-powered backbone — custom websites and internal tools</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://noreset.tv/"><img src="./images/noreset.png" alt="NoReset" style="max-height:44px;max-width:160px;object-fit:contain;display:block;margin:0 auto"></a>
+    </td>
+    <td valign="middle">
+      <a href="https://noreset.tv/"><b>NoReset</b></a><br>
+      <sub>Charity-based speedrunning marathon organization platform</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://cortinakitchens.com"><img src="./images/cortina-kitchens.svg" alt="Cortina Kitchens Inc." style="max-height:44px;max-width:160px;object-fit:contain;display:block;margin:0 auto;border-radius:6px"></a>
+    </td>
+    <td valign="middle">
+      <a href="https://cortinakitchens.com"><b>Cortina Kitchens Inc.</b></a><br>
+      <sub>Kitchen company creating a Lifestyle Built with care</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://niico.com"><img src="./images/niico.svg" alt="NIICO Millwork" style="max-height:36px;max-width:160px;object-fit:contain;display:block;margin:0 auto"></a>
+    </td>
+    <td valign="middle">
+      <a href="https://niico.com"><b>NIICO Millwork</b></a><br>
+      <sub>Luxury cabinetry · interiors · design</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Recent Games Worked On
+
+<div align="center">
+  <a href="https://store.steampowered.com/app/332200/Axiom_Verge/"><img title="Axiom Verge" height="180" src="https://store-images.s-microsoft.com/image/apps.52539.63283233232126176.842a7578-9d6c-4fa4-81fc-4d1b1bc868ae.cfe3be86-d8ed-449e-badd-a40fd4c51ec1"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.epicgames.com/store/en-US/p/axiom-verge-2"><img title="Axiom Verge 2" height="180" src="https://m.media-amazon.com/images/M/MV5BZTM5YmFhYjUtY2QyMy00OWViLWIwYTktNWVhNzAyMjFjNmE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"></a>
+  &nbsp;&nbsp;
+  <a href="https://store.steampowered.com/app/1035560/Struggling/"><img title="Struggling" height="180" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2frt.png"></a>
+</div>
+
+---
+
+<details>
+<summary><b>Operating Systems</b></summary>
+<br>
+<div align="center">
+  <img title="Windows" height="40" src="./images/windows.svg" alt="Windows">&nbsp;
+  <img title="macOS" height="40" src="./images/apple.svg" alt="macOS">&nbsp;
+  <img title="Linux" height="40" src="./images/linux.svg" alt="Linux">
+</div>
+</details>
+
+<details>
+<summary><b>Desktop — Languages & Frameworks</b></summary>
+<br>
+<div align="center">
+  <img title=".NET · VB.NET · XAML" height="40" src="./images/dotnet.svg" alt=".NET">&nbsp;
+  <img title="C#" height="40" src="./images/csharp.svg" alt="C#">&nbsp;
+  <img title="FNA" height="40" src="./images/fna.svg" alt="FNA">
+</div>
+</details>
+
+<details>
+<summary><b>Web — Languages</b></summary>
+<br>
+<div align="center">
+  <img title="HTML5" height="40" src="./images/html5.svg" alt="HTML5">&nbsp;
+  <img title="CSS3" height="40" src="./images/css.svg" alt="CSS3">&nbsp;
+  <img title="JavaScript" height="40" src="./images/javascript.svg" alt="JavaScript">&nbsp;
+  <img title="TypeScript" height="40" src="./images/typescript.svg" alt="TypeScript">&nbsp;
+  <img title="JSON" height="40" src="./images/json.svg" alt="JSON">&nbsp;
+  <img title="Markdown" height="40" src="./images/markdown.svg" alt="Markdown">
+</div>
+</details>
+
+<details>
+<summary><b>Web — Frameworks & Libraries</b></summary>
+<br>
+<div align="center">
+  <img title="React" height="40" src="./images/react.svg" alt="React">&nbsp;
+  <img title="Next.js" height="40" src="./images/nextjs.svg" alt="Next.js">&nbsp;
+  <img title="Node.js" height="40" src="./images/node.svg" alt="Node.js">&nbsp;
+  <img title="Express" height="40" src="./images/express.svg" alt="Express">&nbsp;
+  <img title="Django · DRF" height="40" src="./images/django.svg" alt="Django">
+  <br><br>
+  <img title="React Router" height="40" src="./images/reactrouter.svg" alt="React Router">&nbsp;
+  <img title="Tailwind CSS" height="40" src="./images/tailwindcss.svg" alt="Tailwind CSS">&nbsp;
+  <img title="Bootstrap" height="40" src="./images/bootstrap.svg" alt="Bootstrap">&nbsp;
+  <img title="MUI" height="40" src="./images/mui.svg" alt="MUI">&nbsp;
+  <img title="i18next" height="40" src="./images/i18next.svg" alt="i18next">&nbsp;
+  <img title="GraphQL" height="40" src="./images/graphql.svg" alt="GraphQL">
+</div>
+</details>
+
+<details>
+<summary><b>Databases & Caching</b></summary>
+<br>
+<div align="center">
+  <img title="PostgreSQL" height="40" src="./images/postgresql.svg" alt="PostgreSQL">&nbsp;
+  <img title="MySQL" height="40" src="./images/mysql.svg" alt="MySQL">&nbsp;
+  <img title="MS SQL Server" height="40" src="./images/mssql.svg" alt="MS SQL Server">&nbsp;
+  <img title="MongoDB" height="40" src="./images/mongodb.svg" alt="MongoDB">&nbsp;
+  <img title="SQLite" height="40" src="./images/sqlite.svg" alt="SQLite">&nbsp;
+  <img title="Redis" height="40" src="./images/redis.svg" alt="Redis">
+</div>
+</details>
+
+<details>
+<summary><b>DevOps, Cloud & Middleware</b></summary>
+<br>
+<div align="center">
+  <img title="Docker" height="40" src="./images/docker.svg" alt="Docker">&nbsp;
+  <img title="NGINX" height="40" src="./images/nginx.svg" alt="NGINX">&nbsp;
+  <img title="Caddy" height="40" src="./images/caddy.svg" alt="Caddy">&nbsp;
+  <img title="AWS" height="40" src="./images/aws.svg" alt="AWS">&nbsp;
+  <img title="S3" height="40" src="./images/s3.svg" alt="Amazon S3">
+  <br><br>
+  <img title="Nodemon" height="40" src="./images/nodemon.svg" alt="Nodemon">
+</div>
+</details>
+
+<details>
+<summary><b>Tools, Testing & Workflow</b></summary>
+<br>
+<div align="center">
+  <img title="VS Code" height="40" src="./images/vscode.svg" alt="VS Code">&nbsp;
+  <img title="Visual Studio" height="40" src="./images/visualstudio.svg" alt="Visual Studio">&nbsp;
+  <img title="Unity · Plastic SCM" height="40" src="./images/unity.svg" alt="Unity">&nbsp;
+  <img title="Python" height="40" src="./images/python.svg" alt="Python">&nbsp;
+  <img title="Playwright" height="40" src="./images/playwright.svg" alt="Playwright">&nbsp;
+  <img title="Cursor" height="40" src="./images/cursor.svg" alt="Cursor">&nbsp;
+  <img title="Claude Code" height="40" src="./images/claude-code.svg" alt="Claude Code">&nbsp;
+  <img title="Codex" height="40" src="./images/codex.svg" alt="Codex">
+  <br><br>
+  <img title="n8n" height="40" src="./images/n8n.svg" alt="n8n">&nbsp;
+  <img title="Bitwarden" height="40" src="./images/bitwarden.svg" alt="Bitwarden">&nbsp;
+  <img title="Twingate" height="40" src="./images/twingate.svg" alt="Twingate">&nbsp;
+  <img title="Git" height="40" src="./images/git.svg" alt="Git">&nbsp;
+  <img title="GitHub" height="40" src="./images/github.svg" alt="GitHub">&nbsp;
+  <img title="npm" height="40" src="./images/npm.svg" alt="npm">&nbsp;
+  <img title="Yarn" height="40" src="./images/yarn.svg" alt="Yarn">&nbsp;
+  <img title="Adobe XD" height="40" src="./images/adobexd.svg" alt="Adobe XD">
+</div>
+</details>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VideoGameRoulette&theme=dark&background=1D1F21&border=2BBC8A&stroke=2BBC8A&ring=2BBC8A&fire=2BBC8A&currStreakLabel=2BBC8A&sideLabels=2BBC8A&dates=C9CACC&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
 
 <br>
-<hr>
 
-## 🎮 Recent Games Worked On
-<div align="center">
-	<code><a href="https://store.steampowered.com/app/332200/Axiom_Verge/"><img title="Axiom Verge" height="200" src="https://store-images.s-microsoft.com/image/apps.52539.63283233232126176.842a7578-9d6c-4fa4-81fc-4d1b1bc868ae.cfe3be86-d8ed-449e-badd-a40fd4c51ec1"></a></code>
-	<code><a href="https://www.epicgames.com/store/en-US/p/axiom-verge-2"><img title="Axiom Verge 2" height="200" src="https://m.media-amazon.com/images/M/MV5BZTM5YmFhYjUtY2QyMy00OWViLWIwYTktNWVhNzAyMjFjNmE2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"></a></code>
-	<code><a href="https://store.steampowered.com/app/1035560/Struggling/"><img title="Struggling" height="200" src="https://images.igdb.com/igdb/image/upload/t_cover_big/co2frt.png"></a></code>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VideoGameRoulette&bg_color=1d1f21&color=2bbc8a&line=2bbc8a&point=c9cacc&area=true&area_color=2bbc8a&title_color=ffffff&text_color=c9cacc&custom_title=Contribution%20Activity)](https://github.com/ashutosh1910/github-readme-activity-graph)
+
 </div>
 
-## 🖥️ Operating Systems
 <div align="center">
-	<code><img title="Windows 10" height="40" src="https://img.shields.io/badge/Windows-20232A?style=for-the-badge&logo=windows&logoColor=0078D6"></code>
-	<code><img title="MacOS (Catalina)" height="40" src="https://img.shields.io/badge/MacOS-20232A?style=for-the-badge&logo=apple&logoColor=white"></code>
-	<code><img title="Linux (Ubuntu)" height="40" src="https://img.shields.io/badge/Linux-20232A?style=for-the-badge&logo=linux&logoColor=FCC624"></code>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d1f21,100:2bbc8a&height=80&section=footer" alt="footer" />
 </div>
-
-## 🧠 Desktop Application Languages
-<div align="center">
-	<code><img title="Visual Basic" height="40" src="https://img.shields.io/badge/VB.NET-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=1B72BE"></code>
-	<code><img title="C#" height="40" src="https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=c-sharp&logoColor=239120"></code>
-	<code><img title="XAML" height="40" src="https://img.shields.io/badge/XAML-20232A?style=for-the-badge&logo=xaml&logoColor=0C54C2"></code>
-</div>
-
-## 🔧 Desktop Frameworks
-<div align="center">
-	<code><img title=".NET" height="40" src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=.net&logoColor=512BD4"></code>
-	<code><img title="FNA" height="40" src="https://img.shields.io/badge/FNA-20232A?style=for-the-badge&logoColor=5C2D91"></code>
-</div>
-
-## 🧠 Web Languages
-<div align="center">
-	<code><img title="HTML5" height="40" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26"></code>
-	<code><img title="CSS" height="40" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6"></code>
-	<code><img title="Javascript" height="40" src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-	<br><br>
-	<code><img title="Typescript" height="40" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6"></code>
-	<code><img title="JSON" height="40" src="https://img.shields.io/badge/JSON-20232A?style=for-the-badge&logo=json&logoColor=white"></code>
-	<code><img title="Markdown" height="40" src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white"></code>
-</div>
-
-## 🔧 Web Frameworks
-<div align="center">
-	<code><img title="React.js" height="40" src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
-	<code><img title="Django" height="40" src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=092E20"></code>
-	<code><img title="Django Rest Framework" height="40" src="https://img.shields.io/badge/DRF-20232A?style=for-the-badge&logo=django&logoColor=092E20"></code>
-	<code><img title="React Router" height="40" src="https://img.shields.io/badge/React_Router-20232A?style=for-the-badge&logo=react-router&logoColor=CA4245"></code>
-	<code><img title="Node.js" height="40" src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=43853D"></code>
-	<code><img title="Next.js" height="40" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=white"></code>
-	<br><br>
-	<code><img title="Express.js" height="40" src="https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white"></code>
-	<code><img title="Tailwind" height="40" src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
-	<code><img title="Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=7952B3"></code>
-	<code><img title="i18next" height="40" src="https://img.shields.io/badge/i18next-20232A?style=for-the-badge&logo=i18next&logoColor=26A69A"></code>
-</div>
-
-## 📑 Web Utilities and Middleware
-<div align="center">
-	<code><img title="Nodemon" height="40" src="https://img.shields.io/badge/Nodemon-20232A?style=for-the-badge&logo=nodemon&logoColor=76D04B"></code>
-	<code><img title="passport" height="40" src="https://img.shields.io/badge/Passport.js-20232A?style=for-the-badge&logo=passport&logoColor=34E27A"></code>
-</div>
-
-## 🖌️ UI Libraries
-<div align="center">
-	<code><img title="Material-UI" height="40" src="https://img.shields.io/badge/MUI-20232A?style=for-the-badge&logo=mui&logoColor=007FFF"></code>
-	<code><img title="Tailwind CSS" height="40" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
-	<code><img title="Tailwind UI" height="40" src="https://img.shields.io/badge/Tailwind_UI-20232A?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4"></code>
-</div>
-
-## 🧰 IDEs and Tools
-<div align="center">
-	<code><img title="VSCode" height="40" src="https://img.shields.io/badge/VSCode-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"></code>
-	<code><img title="Visual Studio Community" height="40" src="https://img.shields.io/badge/Visual_Studio-20232A?style=for-the-badge&logo=visualstudiocode&logoColor=5C2D91"></code>
-	<code><img title="Docker" height="40" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2496ED"></code>
-	<code><img title="Caddy" height="40" src="https://img.shields.io/badge/Caddyfile-20232A?style=for-the-badge&logo=protonmail&logoColor=56B366"></code>
-	<br><br>
-	<code><img title="Unity" height="40" src="https://img.shields.io/badge/Unity-20232A?style=for-the-badge&logo=unity&logoColor=white"></code>
-	<code><img title="Python" height="40" src="https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=F7DF1E"></code>
-</div>
-
-## 🗄️ Database Experience
-<div align="center">
-	<code><img title="PostgreSQL" height="40" src="https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=316192"></code>
-	<code><img title="MongoDB" height="40" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B"></code>
-	<code><img title="SQLite" height="40" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=07405E"></code>
-</div>
-
-## 🔗 Other Experience
-<div align="center">
-	<code><img title="Plastic SCM" height="40" src="https://img.shields.io/badge/Plastic_SCM-20232A?style=for-the-badge&logo=data:image/png;base64,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"></code>
-	<code><img title="Git" height="40" src="https://img.shields.io/badge/git-20232A?style=for-the-badge&logo=git&logoColor=F05032"></code>
-	<code><img title="GitHub" height="40" src="https://img.shields.io/badge/github-20232A?style=for-the-badge&logo=github&logoColor=white"></code>
-	<code><img title="npm" height="40" src="https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=CB3837"></code>
-	<code><img title="yarn" height="40" src="https://img.shields.io/badge/Yarn-20232A?style=for-the-badge&logo=yarn&logoColor=2C8EBB"></code>
-	<br><br>
-	<code><img title="Adobe XD" height="40" src="https://img.shields.io/badge/Adobe_XD-20232A?style=for-the-badge&logo=adobexd&logoColor=FF61F6"></code>
-	<code><img title="Amazon AWS" height="40" src="https://img.shields.io/badge/Amazon_AWS-20232A?style=for-the-badge&logo=amazonaws&logoColor=FF9900"></code>
-	<code><img title="Amazon S3" height="40" src="https://img.shields.io/badge/Amazon_S3-20232A?style=for-the-badge&logo=amazons3&logoColor=569A31"></code>
-	<code><img title="NGINX" height="40" src="https://img.shields.io/badge/NGINX-20232A?style=for-the-badge&logo=nginx&logoColor=009639"></code>
-</div>
-
-<hr>
-<br>
-
-## GitHub Stats
-<div align="center">
-	<a href="https://github.com/VideoGameRoulette/VideoGameRoulette">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=VideoGameRoulette&show_icons=true&line_height=40&count_private=false&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="VideoGameRoulette's GitHub Stats" />
-	</a> 
-	<a href="https://github.com/VideoGameRoulette/VideoGameRoulette">
-		<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VideoGameRoulette&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-	</a>
-</div>
-<hr>
