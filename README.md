@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://cortinakitchens.com"><img src="./images/cortina-kitchens.svg" alt="Cortina Kitchens Inc." style="max-height:44px;max-width:160px;object-fit:contain;display:block;margin:0 auto;border-radius:6px"></a>
+      <a href="https://cortinakitchens.com"><span style="display:inline-block;background-color:#ffffff;padding:6px 10px;border-radius:6px;line-height:0"><img src="./images/cortina-kitchens.svg" alt="Cortina Kitchens Inc." style="max-height:36px;max-width:140px;object-fit:contain;display:block"></span></a>
     </td>
     <td valign="middle">
       <a href="https://cortinakitchens.com"><b>Cortina Kitchens Inc.</b></a><br>
@@ -69,7 +69,7 @@
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <a href="https://niico.com"><img src="./images/niico.svg" alt="NIICO Millwork" style="max-height:36px;max-width:160px;object-fit:contain;display:block;margin:0 auto"></a>
+      <a href="https://niico.com"><span style="display:inline-block;background-color:#ffffff;padding:6px 10px;border-radius:6px;line-height:0"><img src="./images/niico.svg" alt="NIICO Millwork" style="max-height:32px;max-width:140px;object-fit:contain;display:block"></span></a>
     </td>
     <td valign="middle">
       <a href="https://niico.com"><b>NIICO Millwork</b></a><br>
