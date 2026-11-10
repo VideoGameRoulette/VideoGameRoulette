@@ -38,7 +38,7 @@
 ---
 
 ## Featured Projects
-
+https://github.com/VideoGameRoulette/VideoGameRoulette/blob/master/images/carebeardaycare.png?raw=true
 <table>
   <tr>
     <td width="170" align="center" valign="middle">
@@ -74,6 +74,15 @@
     <td valign="middle">
       <a href="https://niico.com"><b>NIICO Millwork</b></a><br>
       <sub>Luxury cabinetry · interiors · design</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="170" align="center" valign="middle">
+      <a href="https://www.inhousecloudsolutions.com/"><img src="./images/inhouse-cloud-solutions.png" alt="In House Cloud Solutions" style="max-height:48px;max-width:48px;object-fit:contain;display:block;margin:0 auto"></a>
+    </td>
+    <td valign="middle">
+      <a href="https://carebeardaycare.ca/"><b>Care Bear Daycare</b></a><br>
+      <sub>Dog Boarding and Daycare</sub>
     </td>
   </tr>
 </table>
