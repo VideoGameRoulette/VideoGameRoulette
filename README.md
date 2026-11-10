@@ -78,7 +78,7 @@ https://github.com/VideoGameRoulette/VideoGameRoulette/blob/master/images/carebe
   </tr>
   <tr>
     <td width="170" align="center" valign="middle">
-      <a href="https://www.inhousecloudsolutions.com/"><img src="./images/inhouse-cloud-solutions.png" alt="In House Cloud Solutions" style="max-height:48px;max-width:48px;object-fit:contain;display:block;margin:0 auto"></a>
+      <a href="https://www.inhousecloudsolutions.com/"><img src="./images/carebeardaycare.png" alt="Care Bear Daycare" style="max-height:48px;max-width:48px;object-fit:contain;display:block;margin:0 auto"></a>
     </td>
     <td valign="middle">
       <a href="https://carebeardaycare.ca/"><b>Care Bear Daycare</b></a><br>
